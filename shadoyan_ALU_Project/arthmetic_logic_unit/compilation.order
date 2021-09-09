@@ -1,0 +1,3 @@
+.\src\alu_entity.vhd
+.\src\alu_arch_structural.vhd
+.\src\TestBench\alu_TB.vhd

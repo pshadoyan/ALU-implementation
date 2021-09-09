@@ -1,0 +1,53 @@
+Active-HDL 10.5.216.6767 2020-05-31 21:50:24
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_alu
+
+
+----------------------------------------------------------------------------------------------------------------------------
+Entity                      | Architecture    | Library              | Info | Compiler Version        | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------
+alu_tb                      | TB_ARCHITECTURE | arthmetic_logic_unit |      | 10.5.216.6767 (Windows) | -O3 -2008
+alu                         | behavior        | arthmetic_logic_unit |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | add_function    | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | sub_function    | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | multi_function  | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | and_function    | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | or_function     | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | xor_function    | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | not_function    | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit             | shift_function  | functional_unit_lib  |      | 10.5.216.6767 (Windows) | -O3 -2008
+multiplexer                 | dataflow        | mux_lib              |      | 10.5.216.6767 (Windows) | -O3 -2008
+----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+VHDL Configuration                            | Library              | Info | Compiler Version        | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------
+testbench_for_alu                             | arthmetic_logic_unit |      |                         | <unavailable>
+TESTBENCH_FOR_alu__alu__behavior__conf__68__8 | arthmetic_logic_unit |      |                         | <unavailable>
+----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+VHDL Package                                  | Library              | Info | Compiler Version        | Compilation Options
+----------------------------------------------------------------------------------------------------------------------------
+standard                                      | std                  |      |                         | <unavailable>
+TEXTIO                                        | std                  |      |                         | <unavailable>
+std_logic_1164                                | ieee                 |      |                         | <unavailable>
+NUMERIC_STD                                   | ieee                 |      |                         | <unavailable>
+----------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------
+Library                                       | Comment
+----------------------------------------------------------------------------------------------------------------------------
+arthmetic_logic_unit                          | None
+functional_unit_lib                           | None
+ieee                                          | Standard IEEE packages library
+mux_lib                                       | None
+std                                           | Standard VHDL library
+----------------------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+testbench_for_alu testbench_for_alu
+
+
+The performance of simulation is reduced. Version EDU Edition

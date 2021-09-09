@@ -1,0 +1,21 @@
+[Files List]
+D:\Aldec\vlib\std/src/standard.vhd=S
+D:\Aldec\vlib\std/src/textio.vhd=S
+D:\Aldec\vlib\ieee/src/std_logic_1164.vhdl=S
+D:\Aldec\vlib\ieee/src/std_logic_1164-body.vhdl=S
+D:\Aldec\vlib\ieee/src/numeric_std.vhdl=S
+D:\Aldec\vlib\ieee/src/numeric_std-body.vhdl=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\mux_lib/src/multiplexer_entity.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\mux_lib/src/multiplexer_architecture.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_entity.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_shift.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_not.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_xor.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_or.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_and.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_multiplication.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_subtraction.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_addition.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit/src/alu_entity.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit/src/alu_arch_structural.vhd=S
+d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit/src/TestBench/alu_TB.vhd=S

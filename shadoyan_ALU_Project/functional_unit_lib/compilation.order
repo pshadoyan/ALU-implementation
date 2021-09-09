@@ -1,0 +1,10 @@
+.\src\functional_unit_entity.vhd
+.\src\functional_unit_arch_addition.vhd
+.\src\functional_unit_arch_subtraction.vhd
+.\src\functional_unit_arch_multiplication.vhd
+.\src\functional_unit_arch_and.vhd
+.\src\functional_unit_arch_or.vhd
+.\src\functional_unit_arch_xor.vhd
+.\src\functional_unit_arch_not.vhd
+.\src\functional_unit_arch_shift.vhd
+.\src\TestBench\functional_unit_TB.vhd

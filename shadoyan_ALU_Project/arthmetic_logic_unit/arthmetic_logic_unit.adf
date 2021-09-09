@@ -1,0 +1,85 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=arthmetic_logic_unit
+
+[Library]
+arthmetic_logic_unit=.\arthmetic_logic_unit\arthmetic_logic_unit.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=NONE
+REFRESH_FLOW=1
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+arthmetic_logic_unit=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=alu_tb|testbench_for_alu|1 
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension3=mak
+Name4=Memory
+Directory4=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension5=dll
+Name6=PDF
+Directory6=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension6=pdf
+Name7=HTML
+Directory7=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension7=htm;html
+Name8=ALINT-PRO Workspaces
+Directory8=d:\Aldec\My_Designs\shadoyan_ALU_Project\arthmetic_logic_unit\
+Extension8=alintws
+
+[Groups]
+TestBench=1
+
+[Files]
+/alu_entity.vhd=-1
+/alu_arch_structural.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+TestBench/alu_TB.vhd=-1
+TestBench/alu_TB_runtest.do=-1
+
+[Files.Data]
+.\src\alu_entity.vhd=VHDL Source Code
+.\src\alu_arch_structural.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\TestBench\alu_TB.vhd=VHDL Test Bench
+.\src\TestBench\alu_TB_runtest.do=Macro
+

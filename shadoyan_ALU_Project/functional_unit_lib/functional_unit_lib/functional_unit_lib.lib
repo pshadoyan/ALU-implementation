@@ -1,0 +1,81 @@
+timestamp=1591062482484
+
+[~A]
+ModifyID=452
+Version=74
+
+[functional_unit]
+A/add_function=21|./../src/functional_unit_arch_addition.vhd|1|1*5989291
+A/and_function=21|./../src/functional_unit_arch_and.vhd|1|1*5995456
+A/multi_function=21|./../src/functional_unit_arch_multiplication.vhd|1|1*5994307
+A/not_function=21|./../src/functional_unit_arch_not.vhd|1|1*6000185
+A/or_function=21|./../src/functional_unit_arch_or.vhd|1|1*5997095
+A/shift_function=21|./../src/functional_unit_arch_shift.vhd|1|1*6001310
+A/sub_function=21|./../src/functional_unit_arch_subtraction.vhd|1|1*5991799
+A/xor_function=21|./../src/functional_unit_arch_xor.vhd|1|1*5998638
+BinI32/add_function=3*1591679
+BinI32/and_function=3*1593819
+BinI32/multi_function=3*1593435
+BinI32/not_function=3*1595393
+BinI32/or_function=3*1594248
+BinI32/shift_function=3*1595833
+BinI32/sub_function=3*1592486
+BinI32/xor_function=3*1594820
+I=0*251954
+I/add_function=0*1033152
+I/and_function=0*1033937
+I/multi_function=0*1033674
+I/not_function=0*1034719
+I/or_function=0*1034198
+I/shift_function=0*1034980
+I/sub_function=0*1033413
+I/xor_function=0*1034458
+M=11|0|vde|1589829942048|./../src/functional_unit_entity.vhd|0*251522*0x99ff8079347736a526aa2dbdc5a9e4c883a0dd64|0*251850*0xd986fd7175c8cf28cd774bcadde79966
+M/add_function=21|0|vde|1591062482361|./../src/functional_unit_arch_addition.vhd|0*975734*0x045e501760322951d12ac4e61c91d608115f3035|0*976423*0xb966535deb9617f745ced53ae4cc1a7f
+M/and_function=21|0|vde|1591062482402|./../src/functional_unit_arch_and.vhd|0*901458*0x39538bf3f8de8944dea659a07015d3b6d30a8824|0*901953*0xb966535deb9617f745ced53ae4cc1a7f
+M/multi_function=21|0|vde|1591062482390|./../src/functional_unit_arch_multiplication.vhd|0*471048*0x0fb6b3f99fec482c2ea9fe2773623207d7c9fc0d|0*471312*0xb966535deb9617f745ced53ae4cc1a7f
+M/not_function=21|0|vde|1591062482441|./../src/functional_unit_arch_not.vhd|0*204412*0xf6b9529b41d35d864a84a1aa56994c5e1f46dad4|0*204684*0xb966535deb9617f745ced53ae4cc1a7f
+M/or_function=21|0|vde|1591062482416|./../src/functional_unit_arch_or.vhd|0*861253*0x3f7d2e9cff42a7b713c0e631486076629489f92a|0*861650*0xb966535deb9617f745ced53ae4cc1a7f
+M/shift_function=21|0|vde|1591062482453|./../src/functional_unit_arch_shift.vhd|0*238974*0xe706c03b75f2a344fb9d3df2ad3efa7759be7538|0*239256*0xb966535deb9617f745ced53ae4cc1a7f
+M/sub_function=21|0|vde|1591062482377|./../src/functional_unit_arch_subtraction.vhd|0*483708*0x7f3af8e27e4ed99fc9c60d2e077d9eab795c9ce8|0*484385*0xb966535deb9617f745ced53ae4cc1a7f
+M/xor_function=21|0|vde|1591062482428|./../src/functional_unit_arch_xor.vhd|0*754503*0xafcac7c1243739c4fe16fa0f6adfb8725e8910fc|0*754904*0xb966535deb9617f745ced53ae4cc1a7f
+R=./../src/functional_unit_entity.vhd|5
+Version=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|c2cc19db890b1e7d8657c37f0070d92c2ce1947f313cd9869ac70c16118e5add4fe6337974e1d656c0cba01eed131caf
+Version/add_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|182060aba5dd7105db7c0ca49ccec45f5d62396f8c200ace1c2248b68c2503c683bab6657ff5630895ee078622b34b66
+Version/and_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|fc88bd922b56152f001f805ec7c3bc02d267bf0b10de12e8c222a0d75831a3cd33430f076abe95b809f6622c2622188c
+Version/multi_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|90592d87a2d372196593e2a5e8c48d9004a1591f28399269965fca4e98a65113a574fcdfac482374c2bb0ea4511a91bf
+Version/not_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|78d4dde76df53865a5f8838d0667f6ccbb1a6b02934d44a55c3a6a8b907027fe60a66cab3a8ce7cd76235a1715674941
+Version/or_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|319792a2613d413813bc0f937a92025af504c209772bf448690280c48e1702f2d36784355b811c65dd07544e59858652
+Version/shift_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|f7eaa96f70efc938e0617ddabd9f1515ffec15ccef9c5ee8a7bd8eac808cb7da6160d6a142cc21f6d12ae4e146f9a8ad
+Version/sub_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|a6226f1c8bb67aae7fa3c73b06a832116df69869c26ba25640fb41ecd9e131226d6260b4b4e139f0eb09653e88987547
+Version/xor_function=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|4dc399f567c094d591573a0fd6b908ea0060428c52ee324632713c8e9971a477c15556fb60ff2f4df93a8952bb5674ec
+
+[functional_unit_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/functional_unit_TB.vhd|13|1*6002443
+BinI32/tb_architecture=3*1596386
+I=0*229210
+I/tb_architecture=I/TB_ARCHITECTURE 0*1035243
+M=11|0|vde|1589483243553|./../src/TestBench/functional_unit_TB.vhd|0*228834*0x59c78927a4fd2fc16e5c4a022069f5453381c845|0*229097*0xd986fd7175c8cf28cd774bcadde79966
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|vde|1591062482468|./../src/TestBench/functional_unit_TB.vhd|0*1003728*0x81c534be2fe0730506f91e5ebd8b8a4f52457669|0*1006720*0xb966535deb9617f745ced53ae4cc1a7f
+R=./../src/TestBench/functional_unit_TB.vhd|7
+Version=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|c2cc19db890b1e7d8657c37f0070d92c841fa9fcbc1fc6cfb2ff6dafddb4a2ce74324fbb611d77f5a0d8158a82aa6b0f
+Version/tb_architecture=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea8bb04f1133ed6c28879c67d586e4e2fa
+
+[testbench_for_functional_unit]
+Configures=functional_unit_tb.TB_ARCHITECTURE
+E=1*6008782
+I=0*1035553
+M=2|0|vde|1591062482475|./../src/TestBench/functional_unit_TB.vhd|0*710671*0xf80b5e94b5a5d6c9202907236d17204bdc71c9f5|0*711563*0xb966535deb9617f745ced53ae4cc1a7f
+R=./../src/TestBench/functional_unit_TB.vhd|170
+Version=10.5.216.6767 (Windows)|00000009789cd3f53756d0353230b00000090c01c7|5efd636a07bb57613e35fadc81a5c3e5201f412716a72d285a749652f6a8adaa4227f604df8ed4635ba4384b49ced7188e9f93f4343e52ec9a48c37e9472bddc
+
+[~MFT]
+0=20|0functional_unit_lib.mgf|1035553|1022778
+1=20|1functional_unit_lib.mgf|6008782|5989291
+3=18|3functional_unit_lib.mgf|1596386|1591679
+
+[~U]
+functional_unit=11|0*251278|
+functional_unit_tb=11|0*228653|
+testbench_for_functional_unit=TESTBENCH_FOR_functional_unit 2||
+

@@ -1,0 +1,11 @@
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_entity.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_addition.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_subtraction.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_multiplication.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_and.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_or.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_xor.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_not.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\functional_unit_arch_shift.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+"d:\Aldec\My_Designs\shadoyan_ALU_Project\functional_unit_lib\src\TestBench\functional_unit_TB.vhd" VHDL functional_unit_lib 1 0 0 -02 -08
+. . 0 0 0

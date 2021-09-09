@@ -1,0 +1,17 @@
+[Files List]
+D:\Aldec\vlib\std/src/standard.vhd=S
+D:\Aldec\vlib\std/src/textio.vhd=S
+D:\Aldec\vlib\ieee/src/std_logic_1164.vhdl=S
+D:\Aldec\vlib\ieee/src/std_logic_1164-body.vhdl=S
+D:\Aldec\vlib\ieee/src/numeric_std.vhdl=S
+D:\Aldec\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_entity.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_shift.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_not.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_xor.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_or.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_and.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_multiplication.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_subtraction.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/functional_unit_arch_addition.vhd=S
+C:\Users\Patrick\Desktop\PATRICK SHADOYAN - 2020-06-02 01-48-32 - shadoyan_ALU_Project\shadoyan_ALU_Project\functional_unit_lib/src/TestBench/functional_unit_TB.vhd=S

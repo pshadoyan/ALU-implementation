@@ -1,0 +1,7 @@
+43
+~E 1 "./../src/alu_entity.vhd" 10 alu
+~A 1 "./../src/alu_arch_structural.vhd" 1 behavior
+~E 1 "./../src/TestBench/alu_TB.vhd" 7 alu_tb
+~A 1 "./../src/TestBench/alu_TB.vhd" 10 TB_ARCHITECTURE
+~C 1 "./../src/alu_arch_structural.vhd" 60 config
+~C 1 "./../src/TestBench/alu_TB.vhd" 66 testbench_for_alu

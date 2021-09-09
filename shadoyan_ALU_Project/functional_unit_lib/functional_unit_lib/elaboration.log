@@ -1,0 +1,42 @@
+Active-HDL 10.5.216.6767 2020-10-27 19:59:15
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_functional_unit
+
+
+------------------------------------------------------------------------------------------------------------------
+Entity             | Architecture    | Library             | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------------------------
+functional_unit_tb | TB_ARCHITECTURE | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | add_function    | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | sub_function    | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | multi_function  | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | and_function    | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | or_function     | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | xor_function    | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | not_function    | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+functional_unit    | shift_function  | functional_unit_lib |      | 10.5.216.6767 (Windows) | -O3 -2008
+------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------
+VHDL Configuration                   | Library             | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------------------------
+testbench_for_functional_unit        | functional_unit_lib |      |                         | <unavailable>
+------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------
+VHDL Package                         | Library             | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------------------------
+standard                             | std                 |      |                         | <unavailable>
+TEXTIO                               | std                 |      |                         | <unavailable>
+std_logic_1164                       | ieee                |      |                         | <unavailable>
+NUMERIC_STD                          | ieee                |      |                         | <unavailable>
+------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------
+Library                              | Comment
+------------------------------------------------------------------------------------------------------------------
+functional_unit_lib                  | None
+ieee                                 | Standard IEEE packages library
+std                                  | Standard VHDL library
+------------------------------------------------------------------------------------------------------------------

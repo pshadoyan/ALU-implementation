@@ -1,0 +1,13 @@
+452
+~E 1 "./../src/functional_unit_entity.vhd" 5 functional_unit
+~A 1 "./../src/functional_unit_arch_addition.vhd" 1 add_function
+~A 1 "./../src/functional_unit_arch_and.vhd" 1 and_function
+~A 1 "./../src/functional_unit_arch_multiplication.vhd" 1 multi_function
+~A 1 "./../src/functional_unit_arch_not.vhd" 1 not_function
+~A 1 "./../src/functional_unit_arch_or.vhd" 1 or_function
+~A 1 "./../src/functional_unit_arch_shift.vhd" 1 shift_function
+~A 1 "./../src/functional_unit_arch_subtraction.vhd" 1 sub_function
+~A 1 "./../src/functional_unit_arch_xor.vhd" 1 xor_function
+~E 1 "./../src/TestBench/functional_unit_TB.vhd" 7 functional_unit_tb
+~A 1 "./../src/TestBench/functional_unit_TB.vhd" 13 TB_ARCHITECTURE
+~C 1 "./../src/TestBench/functional_unit_TB.vhd" 170 testbench_for_functional_unit
